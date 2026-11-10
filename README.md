@@ -1,2 +1,2 @@
 # timale
-Timer de Pomodoro para sesiones de estudio.
+Timer estilo Pomodoro para sesiones de estudio.
